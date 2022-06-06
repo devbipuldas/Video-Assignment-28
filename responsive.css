@@ -1,0 +1,307 @@
+
+/* xxl device */
+@media (min-width:1200px)  and (max-width:1399px){
+    .contact-form.mt-5.w-50.mx-auto.shadow-sm.p-5 {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        
+    }
+    .contact-title h1 {
+        margin-bottom: 16px;
+    }
+}
+
+/* xl device */
+@media (min-width:992px)  and (max-width:1199px){
+    .about-left-content {
+        margin-top: 165px;
+    }
+    .bottom{
+        margin-top: 10px;
+    }
+    .feature-content-right {
+        padding: 15px;
+    }
+    .contact-form {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+    .contact-title h1 {
+        margin-bottom: 15px;
+    }
+    .footer-button {
+        margin-left: 160px;
+    }
+    .my-5 {
+        margin-top: 1rem !important;
+      
+    }
+    .foot-bottom {
+        padding-top: 0rem !important;
+    }
+}
+
+
+/* md device */
+@media (min-width:768px)  and (max-width:991px){
+    .slider-section {
+        padding: 150px 0px;
+       
+    }
+    .slider-button{
+        margin-left: -50px;
+    }
+    .slider-link {
+        margin-right: -50px;
+     
+    }
+    .about-left-content {
+        margin-top: 60px;
+    }
+    .pricing-item {
+        padding: 40px 15px;
+     
+    }
+    .pricing-item ul li {
+       
+        margin-top: 15px;
+       
+    }
+    .p-item-subtitle {
+        font-size: 15px;
+    }
+   
+    .p-5 {
+        padding: 0rem !important;
+        margin-top: 0 !important;
+    }
+    .what-do-user h1 {
+        font-size: 25px;
+    }
+    .feature-content-right {
+        padding: 23px;
+    }
+    .team-items {
+        margin-top: 70px;
+       
+    }
+    .team-two{
+        margin-top: 50px;
+    }
+    .contact-form {
+        padding-bottom: 20px !important;
+    }
+    .contact-section {
+        margin-top: 0 !important;
+    }
+    .footer-button {
+        margin-left: 80px !important;
+    }
+    .foot-bottom {
+        padding-top: 0 !important;
+    }
+   
+}
+
+    /* sm device */
+@media (min-width:576px)  and (max-width:767px){
+    .slider-caption h4 {
+        font-size: 15px;
+    }
+    .counter-inner {
+        margin-bottom: 25px;
+    }
+    .about-left-content {
+        margin-top: -35px;
+    }
+    .about-left-content h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .feature-content-right {
+        padding: 14px;
+    }
+    .feature-content-title {
+        font-size: 16px;
+    }
+    .f-con-sub-t{
+        font-size: 14px;
+    }
+    .col-lg.w-75.mx-auto {
+        width: 100% !important;
+        font-size: 15px;
+    }
+    .text-muted {
+        margin-bottom: 30px;
+    }
+    .team-history {
+        margin-top: -20px;
+    }
+    .team-items {
+        margin-top: 65px;
+        
+    }
+    .team-two{
+        margin-top: 36px;
+        margin-bottom: 0 !important;
+    }
+/* contact section */
+
+    .contact-form {
+        width: 90% !important;
+        margin-top: 0 !important;
+        padding-top: 15px !important;
+       
+    }
+    .contact-title h1 {
+        font-size: 28px;
+    }
+    .contact-form h4 {
+        margin-bottom: 22px;
+    }
+
+    /* footer section */
+    .footer-title h1 {
+        font-size: 20px;
+        margin-bottom: -10px;
+    }
+     .footer-button {
+        margin: 0 !important;
+        
+    } 
+    .footer-button {
+        margin-left: 0px;
+    }
+    .footer-buttan {
+        margin-left: -8px;
+        
+    }
+    .foot-bottom.pt-5 {
+        padding-top: 0 !important;
+        font-size: 15px;
+    }
+    .what-do-user{
+        font-size: 25px;
+    }
+    .slider-button{
+        margin-left: -100px;
+    }
+    .slider-link {
+        margin-right: -30px;
+     
+    }
+    .footer-bttan {
+        margin-top: 0;
+    }
+}
+
+
+    /* X-sm device */
+    @media (min-width:320px) and (max-width:575px){
+        .slider-section {
+            padding: 60px 0px;
+        }
+        .slider-caption h4 {
+            font-size: 14px;
+        }
+        .slider-caption h2 {
+            font-size: 15px;
+        }
+        .form-control {
+            font-size: 12px;
+        }
+        .slider-btn {
+            font-size: 12px;
+        }
+        .about-left-content {
+            margin-top: -28px;
+        }
+        .avtivity-goals h3 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .feature-title h1 {
+            font-size: 17px;
+            font-weight: 600;
+        }
+        .feature-subtitle {
+            font-size: 10px;
+            font-weight: 600;
+        }
+        .feature-content-right {
+            padding: 14px;
+        }
+        .pricing-title h1 {
+            font-size: 23px;
+        }
+        .pricing-title p {
+            font-size: 17px;
+        }
+        .pricing-item ul li {
+            font-size: 13px;
+           
+        }
+        .team-items.one.mb-5 {
+            margin-top: 70px;
+        }
+        .team-items.team-two.mb-5 {
+            margin-top: 50px;
+        }
+        .contact-title {
+            margin-top: -45px;
+        }
+       .contact-title h1 {
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .contact-form{
+            width: 100% !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            padding-bottom: 16px !important;
+        }
+        .contact-form h4 {
+            font-size: 20px;
+        }
+        .footer-title p {
+            font-size: 16px;
+            font-weight: 400;
+        }
+        .footer-title h1 {
+            font-size: 18px;
+            font-weight: 500;
+        }
+        .footer-button {
+            margin-left: 0px;
+            margin-top: 10px;
+        }
+        .footar-button {
+            margin: 0 !important;
+            margin-bottom: 20px !important;
+
+        }
+        .col-lg-6.col-sm-6.my-5 {
+    
+            margin: 0 !important;
+        }
+        .footer-buttan {
+
+            display: flex;
+            justify-content: center;
+          
+        }
+        .footer-bttan {
+            margin: 18px 0;
+            margin-bottom: 36px;
+            font-size: 18px;
+        }
+        .footer-pic img {
+            margin-top: -20px;
+        }
+        .foot-bottom{
+            padding-top: 0 !important;
+            font-size: 12px;
+            font-weight: 500;
+        }
+    
+    }
